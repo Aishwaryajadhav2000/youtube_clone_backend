@@ -27,6 +27,10 @@ https://github.com/Aishwaryajadhav2000/youtube_clone_backend
 Frontend : 
 https://github.com/Aishwaryajadhav2000/YouTube_clone
 
+---------------workflow----
+https://drive.google.com/file/d/1wWQ0TY3OilGouXch9geOuv4WoaPPnPha/view?usp=sharing
+
+
 
 ---------------------------.env =>
 Database setup Can change according to requirements
